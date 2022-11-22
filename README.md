@@ -16,15 +16,19 @@
 ![TAEYONG](https://i.pinimg.com/564x/f0/52/dd/f052ddde4c55af748096c64c730fcad7.jpg)
 
 Lee Tae Yong (이태용; born Jul 1, 1995) is a South Korean rapper and member of the Kpop group NCT and its sub-units NCT Dream, NCT U, and NCT 127 under SM Entertainment. He is also a member of the SM superstar group SuperM. His position in the groupd is leader, main dancer, rapper, vocalist, visual.
+
 ![JOHNNY SUH](https://i.pinimg.com/564x/a6/0b/30/a60b309cf93f562381b53769fdf08bf8.jpg)
 
 Seo Young Ho also known as Johnny SUh (서영호; born Feb 9, 1995) is a Korean-American rapper and dancer based in South Korea. He is a member of the Kpop group NCT and its sub-unit NCT 127 under SM Entertainment.
+
 ![NAKAMOTO YUTA](https://i.pinimg.com/564x/b2/10/39/b21039c6da41fd02ddc43e999e1c080e.jpg)
 
 Nakamoto Yuta (中本悠太; born Oct 26, 1995) is a Japanese singer, dancer, and rapper based in South Korea. He is a member of the Kpop group NCT and its sub-unit NCT 127 under SM Entertainment.
+
 ![LEE DOYOUNG](https://i.pinimg.com/564x/99/c6/7e/99c67e48723e131f9498fd55106c4bb7.jpg)
 
 Kim Do Young (김동영‬; born Feb 1, 1996), simply known as Doyoung, is a South Korean singer and member of the Kpop group NCT and its sub-units NCT U and NCT 127 under SM Entertainment.
+
 ![JEONG JAEHYUN](https://i.pinimg.com/564x/5a/cc/53/5acc53da0b285315387cbf40f3a97ffc.jpg)
 
 Jung Jae Hyun (정재현; born Feb 14, 1997), simply known as Jaehyun, is a South Korean singer, rapper, dancer, and member of the Kpop group NCT and its sub-units NCT U and NCT 127 under SM Entertainment.
