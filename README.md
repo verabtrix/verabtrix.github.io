@@ -55,4 +55,21 @@
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nChvM2Tyv1ib8AvfCJcOe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CatzXH85XWyBqqdB6qPMB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3THdOskGxdJcRbp0DcS4s0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- 
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0z3ZZ2JKusRpapstADTxVf?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# **WayV**
+![WayV](https://i.pinimg.com/564x/c9/a9/f5/c9a9f501070b610573bc09437f93510a.jpg)
+**Last but not least, WayV, which stands for We Are Your Vision, debuted in 2019 with the song “Take Off”. The group targets the Chinese market and includes members Kun, Ten, Winwin, Lucas, Xiaojun, Hendery and Yangyang.**
+
+# **Top 10 Best Songs by WayV**
+
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bc8VmlNt5S9WJlyw8bBdd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Vg2Y5ETpGdhMYpSESjIzN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LR6C06jdnEKfJLwqJ0WoT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0nNrpT5W9YOvR3bEa7ym12?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0KUcUFRKcFUEMtORVBorDa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Zr1trnK5GcmwMMm40Fjyb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2e3cJdJ8xWwydl8JIYlCqB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Xd55lj6UHNIDy192fmAAD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0KUcUFRKcFUEMtORVBorDa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7iRGkBZdLTs9BwhbnKd53i?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
