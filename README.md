@@ -9,17 +9,27 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0AUFyFEt35g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **Top 10 Best Songs by NCT U**
-- [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix?si=6f1d8cc3de814903)
 
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78DVHbAahuQF56gOC4GnuN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6BdchFAP4TUZUceAsAEb5U?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0B36SbjfDv15ji1bQEEeTN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6PkyloBsFbqWxFnMOVhWGp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SBdExnMWp7er8KxnpPzpG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q2ebj4xoyyGiGHYPGbXJU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wNv1hK9K9wYXibbmj2Z0A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GmPKFWlJqptEgIbINSJQ1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TGniNBlW1mBJFxvSLZ4SA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+1. ## **BOSS**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ErzcmZ2gIwX7X0xSMQPix?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+2. ## **Without You**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78DVHbAahuQF56gOC4GnuN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+3. ## **The 7th Sense**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6BdchFAP4TUZUceAsAEb5U?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+4. ## **90's Love**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0B36SbjfDv15ji1bQEEeTN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+5. ## **Faded In My Last Song**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6xOfdH7XjM8ImGLXBOtdgE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+6. ## **Timeless**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SBdExnMWp7er8KxnpPzpG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+7. ## **From Home**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q2ebj4xoyyGiGHYPGbXJU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+8. ## **All About You**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wNv1hK9K9wYXibbmj2Z0A?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+9. ## **Dancing In the Rain**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GmPKFWlJqptEgIbINSJQ1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+10. ## **Beautiful**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TGniNBlW1mBJFxvSLZ4SA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # **NCT 127**
 ![NCT 127](https://i.pinimg.com/564x/90/af/1d/90af1d217a5cbf3f3c5ec56a5b73d166.jpg)
