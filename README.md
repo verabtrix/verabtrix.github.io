@@ -52,7 +52,7 @@ Jung Jae Hyun (정재현; born Feb 14, 1997), simply known as Jaehyun, is a Sout
 
 ## **Kim Jungwoo**
 
-![KIM JUNGWOO](https://i.pinimg.com/564x/5a/cc/53/5acc53da0b285315387cbf40f3a97ffc.jpg)\
+![KIM JUNGWOO](https://i.pinimg.com/564x/6e/1e/55/6e1e55086bf1b665428c0997f08a5046.jpg)
 
 Kim Jung Woo (김정우; born Feb 19, 1998), simply known as Jungwoo, is a South Korean singer and member of the Kpop group NCT and its sub-units NCT U and NCT 127 under SM Entertainment.
 
@@ -61,3 +61,9 @@ Kim Jung Woo (김정우; born Feb 19, 1998), simply known as Jungwoo, is a South
 ![MARK](https://i.pinimg.com/564x/3e/f9/71/3ef971ac3b09e25f8e32b9677ace2257.jpg)
 
 Mark Lee (마크; born Aug 02, 1999) is a Korean-Canadian member of the Kpop group NCT and its sub-units NCT U, NCT Dream, and NCT 127 under SM Entertainment. He is also a member of SM's superstar group SuperM.
+
+## **Lee Haechan**
+
+![HAECHAN](https://i.pinimg.com/564x/af/10/66/af10667963dc2d5c46573b5f7061ab82.jpg)
+
+Lee Dong Hyuck (이동혁; born Jun 6, 2000) is a South Korean singer and member of the Kpop group NCT and its sub-units NCT Dream, NCT U, and NCT 127 under SM Entertainment.
