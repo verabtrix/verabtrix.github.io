@@ -37,17 +37,27 @@
 
 # **Top 10 Best Songs by NCT 127**
 
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7I2nbddpDYsAe6e4biIxEO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mdEvT7X3Rs7vL75fRb8oo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3o8QzWsiiqTUVgBZfHgF58?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rR9kTA6mD9LbmsCE0QWEY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IhVzUL9qR7MW2ISpB6iYR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4WDdUk1bWlGJMHMuoDLs0t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0UOO07yhSHVVVvkA4JOzPU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xcvypjG0VDrV8eSOiP0oI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/37SqctQhMp3MjvGDXKhnJ3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4kpRzag7QtFfLRUUy9SB9W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12ksjJ2DDQZu0a1fvJnTRE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+1. ## **Baby Don't Like It**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7I2nbddpDYsAe6e4biIxEO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+2. ## **Touch**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/165Bm24pQ4hu97eS4XWxhT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+3. ## **Cherry Bomb**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3o8QzWsiiqTUVgBZfHgF58?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+4. ## **Favorite (Vampire)**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rR9kTA6mD9LbmsCE0QWEY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+5. ## **Heartbreaker**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IhVzUL9qR7MW2ISpB6iYR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+6. ## **Kick It**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0yFq4GHDqLfeceyAs63B3W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+7. ## **First Love**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0UOO07yhSHVVVvkA4JOzPU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+8. ## **Lips**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xcvypjG0VDrV8eSOiP0oI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+9. ## **Back 2 U**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/37SqctQhMp3MjvGDXKhnJ3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+10. ## **Angel**
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4kpRzag7QtFfLRUUy9SB9W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12ksjJ2DDQZu0a1fvJnTRE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # **NCT Dream**
 ![NCT Dream](https://i.pinimg.com/564x/26/8b/cd/268bcd0fe2ccc3a8ccccdc509b14ebb0.jpg)
