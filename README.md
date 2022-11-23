@@ -20,6 +20,12 @@
 
 Lee Tae Yong (이태용; born Jul 1, 1995) is a South Korean rapper and member of the Kpop group NCT and its sub-units NCT Dream, NCT U, and NCT 127 under SM Entertainment. He is also a member of the SM superstar group SuperM. His position in the groupd is leader, main dancer, rapper, vocalist, visual.
 
+## **Moon Taeil**
+
+![MOON TAEIL](https://i.pinimg.com/236x/32/b0/21/32b02133df6b3d70a56d40a9c6f0a5a9.jpg)
+
+Moon Tae Il (문태일; born Jun 14, 1994) is a South Korean singer and member of the Kpop group NCT and its sub-units NCT 127 and NCT U under SM Entertainment.
+
 ## **Johnny Suh**
 
 ![JOHNNY SUH](https://i.pinimg.com/564x/a6/0b/30/a60b309cf93f562381b53769fdf08bf8.jpg)
@@ -44,3 +50,14 @@ Kim Do Young (김동영‬; born Feb 1, 1996), simply known as Doyoung, is a Sou
 
 Jung Jae Hyun (정재현; born Feb 14, 1997), simply known as Jaehyun, is a South Korean singer, rapper, dancer, and member of the Kpop group NCT and its sub-units NCT U and NCT 127 under SM Entertainment.
 
+## **Kim Jungwoo**
+
+![KIM JUNGWOO](https://i.pinimg.com/564x/5a/cc/53/5acc53da0b285315387cbf40f3a97ffc.jpg)\
+
+Kim Jung Woo (김정우; born Feb 19, 1998), simply known as Jungwoo, is a South Korean singer and member of the Kpop group NCT and its sub-units NCT U and NCT 127 under SM Entertainment.
+
+## **Mark Lee*
+
+![MARK](https://i.pinimg.com/564x/3e/f9/71/3ef971ac3b09e25f8e32b9677ace2257.jpg)
+
+Mark Lee (마크; born Aug 02, 1999) is a Korean-Canadian member of the Kpop group NCT and its sub-units NCT U, NCT Dream, and NCT 127 under SM Entertainment. He is also a member of SM's superstar group SuperM.
