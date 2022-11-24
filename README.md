@@ -10,25 +10,25 @@
 
 # **Top 10 Best Songs by NCT U**
 
-1. ## **BOSS**
+## **1. BOSS**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ErzcmZ2gIwX7X0xSMQPix?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-2. ## **Without You**
+## **2. Without You**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78DVHbAahuQF56gOC4GnuN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-3. ## **The 7th Sense**
+## **3. The 7th Sense**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6BdchFAP4TUZUceAsAEb5U?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-4. ## **90's Love**
+## **4. 90's Love**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0B36SbjfDv15ji1bQEEeTN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-5. ## **Faded In My Last Song**
+## **5. Faded In My Last Song**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6xOfdH7XjM8ImGLXBOtdgE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-6. ## **Timeless**
+## **6. Timeless**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SBdExnMWp7er8KxnpPzpG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-7. ## **From Home**
+## **7. From Home**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q2ebj4xoyyGiGHYPGbXJU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-8. ## **All About You**
+## **8. All About You**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wNv1hK9K9wYXibbmj2Z0A?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-9. ## **Dancing In the Rain**
+## **9. Dancing In the Rain**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GmPKFWlJqptEgIbINSJQ1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-10. ## **Beautiful**
+## **10. Beautiful**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TGniNBlW1mBJFxvSLZ4SA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # **NCT 127**
@@ -37,25 +37,25 @@
 
 # **Top 10 Best Songs by NCT 127**
 
-1. ## **Baby Don't Like It**
+## **1. Baby Don't Like It**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7I2nbddpDYsAe6e4biIxEO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-2. ## **Touch**
+## **2. Touch**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/165Bm24pQ4hu97eS4XWxhT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-3. ## **Cherry Bomb**
+## **3. Cherry Bomb**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3o8QzWsiiqTUVgBZfHgF58?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-4. ## **Favorite (Vampire)**
+## **4. Favorite (Vampire)**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rR9kTA6mD9LbmsCE0QWEY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-5. ## **Heartbreaker**
+## **5. Heartbreaker**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IhVzUL9qR7MW2ISpB6iYR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-6. ## **Kick It**
+## **6. Kick It**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0yFq4GHDqLfeceyAs63B3W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-7. ## **First Love**
+## **7. First Love**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0UOO07yhSHVVVvkA4JOzPU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-8. ## **Lips**
+## **8. Lips**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xcvypjG0VDrV8eSOiP0oI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-9. ## **Back 2 U**
+## **9. Back 2 U**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/37SqctQhMp3MjvGDXKhnJ3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-10. ## **Angel**
+## **10. Angel**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4kpRzag7QtFfLRUUy9SB9W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12ksjJ2DDQZu0a1fvJnTRE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -93,13 +93,23 @@
 
 # **Top 10 Best Songs by WayV**
 
+## **1. Love Talk**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bc8VmlNt5S9WJlyw8bBdd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **2. Dream Launch**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Vg2Y5ETpGdhMYpSESjIzN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **3. Miracle
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LR6C06jdnEKfJLwqJ0WoT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **4. Moonwalk**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0nNrpT5W9YOvR3bEa7ym12?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **5. Action Figure**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Z9r4lrkfPK41tfqM6UKMx?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **6. Face to Face**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Zr1trnK5GcmwMMm40Fjyb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **7. Love Talk**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2e3cJdJ8xWwydl8JIYlCqB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **8. Electric Hearts**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Xd55lj6UHNIDy192fmAAD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **9. King of Hearts**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04uvFToQGZkrdWkm65gxmu?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **10. Good Time**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7iRGkBZdLTs9BwhbnKd53i?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
