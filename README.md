@@ -65,15 +65,25 @@
 
 # **Top 10 Best Songs by NCT DREAM**
 
+## **1. La La Love**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2x9A6XKR8u72GysiSQm7Dw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **2. Chewing Gum**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ghwZbe9DV4p4gZrW5XRBt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **3.BOOM**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rcn967QN5JtkPOBDwYIuT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **4. We Go Up**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/26vOBLHS116a4WNUVlvAUW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **5. My First and Last**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/24PhZrRiALtUXgdwXkEwGt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **6. Dive Into You**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7k3HNF3yhJescqlMJoDIIX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **7. 119**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AHpMhCdgaz00aMkoEZTXd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **8.We Young**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nChvM2Tyv1ib8AvfCJcOe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **9. Beatbox**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CatzXH85XWyBqqdB6qPMB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## **10. Life Still Going On**
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3THdOskGxdJcRbp0DcS4s0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0z3ZZ2JKusRpapstADTxVf?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
